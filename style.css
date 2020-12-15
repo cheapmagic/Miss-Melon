@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Inconsolata";
+}
+
+body {
+	font-family: "Inconsolata";
+  font-style: normal;
+	font-size: 18px;
+	line-height: 1.5;
+	
+
+	color: rgba(16, 74, 2, 1);
+	margin: 40px auto 40px auto;
+  padding: 40px;
+	cursor: url("melon-emoji-by-twitter.png"), auto;
+}
+section {
+	font-family: "Inconsolata";
+	font-size: 18px;
+	line-height: 1.5;
+  display: flex;
+}
+.ital {
+  font-style: italic;
+}
+section p {
+  justify-content: space-between;
+}
+
